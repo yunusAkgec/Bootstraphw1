@@ -1,0 +1,26 @@
+#title {
+    color: darkred;
+    font-size: 35px;
+}
+
+
+ul.b {
+    list-style-position: inside;
+  }
+ol.b {
+    list-style-position: inside;
+  }
+
+.second {
+    color: purple;
+    font-size: 25px;
+}
+.font {
+    font-family: 'Roboto' , sans-serif;
+}
+
+.third {
+    color: rgb(167, 167, 49);
+    font-size: 20px;
+}
+  
