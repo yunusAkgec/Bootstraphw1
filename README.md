@@ -1,4 +1,3 @@
-# CSS
-## CSS Nedir?
-### Odev-1
+# Bootstrap
+## Bootstrap Homework - 1
 *Yunus Akgeç*
